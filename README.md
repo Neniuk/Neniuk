@@ -4,7 +4,7 @@
 
 ![Python](./images/python.svg)
 ![JavaScript](./images/javascript.svg)
-![Java](./images/java.svg)
+![Java](./images/openjdk.svg)
 ![Golang](./images/go.svg)
 ![Dart](./images/dart.svg)
 ![HTML5](./images/html5.svg)
