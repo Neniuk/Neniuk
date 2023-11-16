@@ -1,16 +1,21 @@
-### Hi there 👋
+### Neniuk
 
-<!--
-**Neniuk/Neniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Languages and Tools:
 
-Here are some ideas to get you started:
+![Python](URL "./images/python.svg")
+![JavaScript](URL "./images/javascript.svg")
+![Java](URL "./images/java.svg")
+![Golang](URL "./images/go.svg")
+![Dart](URL "./images/dart.svg")
+![HTML5](URL "./images/html5.svg")
+![CSS3](URL "./images/css3.svg")
+![VB](URL "./images/visualbasic.svg")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Nodejs](URL "./images/nodejs.svg")
+![Express](URL "./images/express.svg")
+![React](URL "./images/react.svg")
+![Bootstrap](URL "./images/bootstrap.svg")
+![Flutter](URL "./images/flutter.svg")
+
+![Git](URL "./images/git.svg")
+![Docker](URL "./images/docker.svg")
