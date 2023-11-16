@@ -23,4 +23,8 @@
     <img src="./images/docker.svg" alt="Docker" width="50" height="50">
 </p>
 
+## GitHub Stats:
+
+[![Mattias' GitHub stats](https://github-readme-stats.vercel.app/api?username=Neniuk)](https://github.com/Neniuk/github-readme-stats)
+
 [![](https://visitcount.itsvg.in/api?id=Neniuk&label=Profile%20Views&icon=0&pretty=true&color=0)](https://visitcount.itsvg.in)
