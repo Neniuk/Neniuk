@@ -52,7 +52,7 @@ Display the images in a row.
 -->
 
 <p float="left">
-    <img src="./images/python.svg" alt="Python" width="50" height="50">
+    <img src="./images/python.svg" alt="Python" width="50" height="50" fill="#ffffff">
     <img src="./images/javascript.svg" alt="JavaScript" width="50" height="50">
     <img src="./images/openjdk.svg" alt="Java" width="50" height="50">
     <img src="./images/go.svg" alt="Golang" width="50" height="50">
@@ -70,3 +70,7 @@ Display the images in a row.
     <img src="./images/git.svg" alt="Git" width="50" height="50">
     <img src="./images/docker.svg" alt="Docker" width="50" height="50">
 </p>
+
+<!--
+Make the images white.
+-->
