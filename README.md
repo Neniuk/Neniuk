@@ -11,11 +11,14 @@
 ![CSS3](./images/css3.svg)
 ![VB](./images/visualbasic.svg)
 
-![Nodejs](./images/nodejs.svg)
+![Nodejs](./images/nodedotjs.svg)
 ![Express](./images/express.svg)
 ![React](./images/react.svg)
 ![Bootstrap](./images/bootstrap.svg)
 ![Flutter](./images/flutter.svg)
+
+![PostgreSQL](./images/postgresql.svg)
+![MongoDB](./images/mongodb.svg)
 
 ![Git](./images/git.svg)
 ![Docker](./images/docker.svg)
