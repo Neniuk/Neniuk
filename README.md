@@ -63,7 +63,7 @@ Display the images in a row.
     <img src="./white_images/nodedotjs.svg" alt="Nodejs" width="50" height="50">
     <img src="./white_images/express.svg" alt="Express">
     <img src="./white_images/react.svg" alt="React" width="50" height="50">
-    <img src="./white_images/bootstrap.svg" alt="Bootstrap" width="50" height="50">
+    <img src="./images/bootstrap.svg" alt="Bootstrap" width="50" height="50">
     <img src="./white_images/flutter.svg" alt="Flutter" width="50" height="50">
     <img src="./white_images/postgresql.svg" alt="PostgreSQL" width="50" height="50">
     <img src="./white_images/mongodb.svg" alt="MongoDB" width="50" height="50">
