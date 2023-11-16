@@ -25,6 +25,6 @@
 
 ## GitHub Stats:
 
-[![Mattias' GitHub stats](https://github-readme-stats.vercel.app/api?username=Neniuk)](https://github.com/Neniuk/github-readme-stats)
+[![Mattias' GitHub stats](https://github-readme-stats.vercel.app/api?username=Neniuk&theme=dark&hide_border=true)](https://github.com/Neniuk/github-readme-stats)
 
 [![](https://visitcount.itsvg.in/api?id=Neniuk&label=Profile%20Views&icon=0&pretty=true&color=0)](https://visitcount.itsvg.in)
