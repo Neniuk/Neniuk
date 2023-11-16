@@ -1,6 +1,6 @@
-### Neniuk
+# Neniuk
 
-#### Languages and Tools:
+## Languages and Tools:
 
 <p float="left">
     <img src="./images/python.svg" alt="Python" width="50" height="50">
