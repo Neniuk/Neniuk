@@ -3,7 +3,8 @@ import os
 import xml.etree.ElementTree as ET
 
 # Define the color you want to use
-color = "#F7DF1E"
+color = "#00BFFF" # DodgerBlue
+# color = "#F7DF1E" # Yellow
 
 # Loop through all SVG files in the images directory
 for filename in os.listdir("images"):
