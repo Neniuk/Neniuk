@@ -21,6 +21,7 @@
     <img src="./images/git.svg" alt="Git" width="50" height="50">
     <img src="./images/postman.svg" alt="Postman" width="50" height="50">
     <img src="./images/docker.svg" alt="Docker" width="50" height="50">
+    <img src="./images/c.svg" alt="C" width="50" height="50">
 </p>
 
 ## GitHub Stats:
