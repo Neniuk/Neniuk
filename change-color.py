@@ -10,13 +10,17 @@ color = "#00BFFF"  # DodgerBlue
 # Loop through all SVG files in the images directory
 for filename in os.listdir("images"):
     if filename.endswith(".svg"):
-        # Parse the SVG file
-        tree = ET.parse(os.path.join("images", filename))
-        root = tree.getroot()
+        try:
+            # Parse the SVG file
+            tree = ET.parse(os.path.join("images", filename))
+            root = tree.getroot()
 
-        # Find all path tags and change their fill property to the desired color
-        for path in root.findall(".//{http://www.w3.org/2000/svg}path"):
-            path.set("fill", color)
+            # Find all path tags and change their fill property to the desired color
+            for path in root.findall(".//{http://www.w3.org/2000/svg}path"):
+                path.set("fill", color)
 
-        # Save the modified SVG file
-        tree.write(os.path.join("images", filename))
+            # Save the modified SVG file
+            tree.write(os.path.join("images", filename))
+        except ET.ParseError as e:
+            print(f"Error parsing file: {filename}")
+            print(e)
