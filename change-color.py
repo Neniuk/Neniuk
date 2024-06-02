@@ -7,12 +7,12 @@ import xml.etree.ElementTree as ET
 color = "#00BFFF"  # DodgerBlue
 # color = "#F7DF1E" # Yellow
 
-# Loop through all SVG files in the images directory
-for filename in os.listdir("images"):
+# Loop through all SVG files in the icons directory
+for filename in os.listdir("icons"):
     if filename.endswith(".svg"):
         try:
             # Parse the SVG file
-            tree = ET.parse(os.path.join("images", filename))
+            tree = ET.parse(os.path.join("icons", filename))
             root = tree.getroot()
 
             # Find all path tags and change their fill property to the desired color
@@ -20,7 +20,7 @@ for filename in os.listdir("images"):
                 path.set("fill", color)
 
             # Save the modified SVG file
-            tree.write(os.path.join("images", filename))
+            tree.write(os.path.join("icons", filename))
         except ET.ParseError as e:
             print(f"Error parsing file: {filename}")
             print(e)
