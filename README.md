@@ -1,25 +1,4 @@
-## 👋 About me
-I’m a final-year Software & Systems Engineering student with an interest in full-stack development and distributed systems. I’m also keen on deepening my understanding of operating systems. Currently, I’m gaining hands-on experience as a Cloud Software Trainee.
-
-## 🚀 Technical Skills
-
-### 🖥️ Programming Languages
-- TypeScript/JavaScript, Python, Go, Java, C & SQL
-
-### 🌐 Web & Software Development Frameworks/Tools
-- Frontend: React, Angular
-- Backend: Node.js, Express, Gin, FastAPI
-- DBMS: PostgreSQL, MongoDB
-- Testing: Jest, Vitest, Playwright
-
-### ☁️ Cloud & DevOps
-- Cloud platforms: AWS
-- CI/CD: GitHub Actions
-- Containerization: Docker, Docker Compose
-
-### 🛠️ Development Tools
-- Version Control: Git (feature branch workflow), GitHub
-- Project Management: Jira, Scrum
+😄
 
 <!-- Old skill icons:
 <p float="left">
